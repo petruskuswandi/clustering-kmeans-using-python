@@ -1,0 +1,106 @@
+data_ke;nama_produk;kategori;stok_awal;stok_akhir;terjual
+1;Iswhite masker badan;BodyCare;885;100;785
+2;Iswhite body serum;BodyCare;470;63;407
+3;Iswhite parfum;BodyCare;180;15;165
+4;Iswhite body scrub;BodyCare;210;63;147
+5;Beutytox whitemilk;BodyCare;130;15;115
+6;hanum beautycare bodymist;BodyCare;175;66;109
+7;Holigress body mist;BodyCare;1200;597;603
+8;Holigress macaroon;BodyCare;120;32;88
+9;Deodorant;BodyCare;120;47;73
+10;Milk recipe;BodyCare;115;13;102
+11;Secret clean propolis spray;BodyCare;100;47;53
+12;Kala body mist;BodyCare;650;398;252
+13;Secret cleas propolis wash;BodyCare;65;18;47
+14;Vaseline healthy;BodyCare;200;79;121
+15;Nivea extra;BodyCare;220;55;165
+16;Sheeby;BodyCare;290;51;239
+17;Kala roll on;BodyCare;1000;572;428
+18;La creame body;BodyCare;100;30;70
+19;Iswhite body wash serum;BodyCare;55;18;37
+20;secret clean propolis antiseptic;BodyCare;210;80;130
+21;Beatetox gluta collagen;BodyCare;30;10;20
+22;elumor oxter;BodyCare;100;24;76
+23;bromen;BodyCare;50;39;11
+24;herborist juice;BodyCare;45;35;10
+25;tmco lotion;BodyCare;26;3;23
+26;coolvita collagen;BodyCare;130;2;128
+27;iswhite glow body;BodyCare;50;49;1
+28;numilk tone up;BodyCare;10;5;5
+29;breylee teeth;BodyCare;40;5;35
+30;hanum handcream;BodyCare;120;40;80
+31;kala 30ml;BodyCare;250;26;224
+32;skinomie edp;BodyCare;120;40;80
+33;aha body;BodyCare;450;8;442
+34;Skin youth;Skincare;1350;141;1209
+35;Golden vierra;Skincare;13000;84;12916
+36;Hiqween retinol gel mask;Skincare;530;26;504
+37;Hiqween ss;Skincare;550;16;534
+38;Hiqween serum retinol;Skincare;550;26;524
+39;Skinflair;Skincare;360;1;359
+40;Camille 25;Skincare;290;89;201
+41;Hanum lip serum;Skincare;210;24;186
+42;Feali blackhead;Skincare;195;17;178
+43;Ss facetology;Skincare;250;6;244
+44;Facetology fashwash;Skincare;185;13;172
+45;Hydra faceto 100ml;Skincare;180;9;171
+46;Hydra faceto 300ml;Skincare;180;9;171
+47;Hydra acne 100;Skincare;170;2;168
+48;Hydra acne 300;Skincare;170;2;168
+49;Yessica clay mask;Skincare;155;120;35
+50;Lumiwhite package series;Skincare;150;9;141
+51;Sci;Skincare;410;282;128
+52;Micellar garnier;Skincare;130;25;105
+53;Lumiwhite paket acne;Skincare;145;21;124
+54;Eiem serum hydrating;Skincare;110;16;94
+55;Eiem serum brightening;Skincare;105;12;93
+56;eiem moist;Skincare;115;21;94
+57;eiem ss;Skincare;110;14;96
+58;Serum acne eiem;Skincare;105;10;95
+59;Feali mouis;Skincare;165;63;102
+60;Glad moist blu;Skincare;130;39;91
+61;Glad centela 30gr;Skincare;110;20;90
+62;glad centela 50gr;Skincare;130;43;87
+63;Glad ss;Skincare;350;65;285
+64;Glad yuja;Skincare;100;17;83
+65;Glad fashwash;Skincare;145;59;86
+66;Glad clay stik;Skincare;110;25;85
+67;Glad mois prome;Skincare;155;67;88
+68;Serum yuja;Skincare;110;24;86
+69;Serum centella;Skincare;110;24;86
+70;Serum pomwe;Skincare;110;23;87
+71;Serum jeju;Skincare;110;23;87
+72;glad volcano;Skincare;110;24;86
+73;Camille 6;Skincare;140;46;94
+74;Pratista;Skincare;140;50;90
+75;Lumi ss;Skincare;105;11;94
+76;Lumi retinol;Skincare;100;8;92
+77;lumi booster;Skincare;120;9;111
+78;lumi body cream;Skincare;100;4;96
+79;lumi glow;Skincare;120;3;117
+80;Lumi salmom dna;Skincare;95;4;91
+81;Sea makeup lock;Skincare;95;21;74
+82;Bynads sleeping;Skincare;100;3;97
+83;Origi eye;Skincare;80;10;70
+84;Origi lash ser;Skincare;70;11;59
+85;Origi facial;Skincare;80;7;73
+86;Origi jelly;Skincare;60;7;53
+87;Origi ceratinol;Skincare;80;5;75
+88;Origiton micelar foam;Skincare;60;2;58
+89;Origi jellybost;Skincare;60;1;59
+90;Origi moist cica;Skincare;75;26;49
+91;Origi ss;Skincare;85;9;76
+92;Origi carcoal;Skincare;100;2;98
+93;Origi acne spot;Skincare;55;7;48
+94;Dorskin matcha;Skincare;70;18;52
+95;Dorskin pink;Skincare;80;24;56
+96;Lip glow hey;Skincare;70;42;28
+97;azarine barries ss;Skincare;70;7;63
+98;Everybuddy;Skincare;80;44;36
+99;Glourganic aha;Skincare;40;14;26
+100;Girlpal centella gel;Skincare;30;15;15
+101;girlpal cleansing;Skincare;75;50;25
+102;Facemit camile;Skincare;55;36;19
+103;Feali mud mask;Skincare;40;26;14
+104;Breylee blackhead;Skincare;45;3;42
+105;Sea makeup micellar;Skincare;50;40;10
